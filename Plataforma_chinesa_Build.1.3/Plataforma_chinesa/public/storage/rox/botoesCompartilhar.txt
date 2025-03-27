@@ -1,0 +1,115 @@
+Botões de Compartilhar linha 58 
+
+
+  <div class="w-full flex gap-2 p-4">
+                        <div class="my-scrollbar-wrap my-scrollbar-wrap-x">
+                                <div class="my-scrollbar-content">
+                                    
+                                    <div
+                                        class="flex gap-3 w-full justify-start items-center mt-4"
+                                    >
+                                        <div
+                                            class="flex justify-center items-center"
+                                        >
+                                            <i
+                                                class="fa-duotone fa-share-from-square"
+                                                style="
+                                                    font-size: 1.8rem;
+                                                    color: var(--ci-gray-light);
+                                                "
+                                            ></i>
+                                        </div>
+                                        <div>
+                                            <img
+                                                data-groups-id="my-img-0027d45d-9ba0-440f-903d-3173d590fcf3"
+                                                data-src-render="https://pubusppp.c1oudfront.com/siteadmin/agent/img/img_tg.png"
+                                                src="https://pubusppp.c1oudfront.com/siteadmin/agent/img/img_tg.png"
+                                                alt="Telegram"
+                                                data-blur="0"
+                                                data-status="loaded"
+                                                class="goDRiiBsuEuXD3W1NphN"
+                                                style="
+                                                    width: 2.5rem;
+                                                    height: 2.5rem;
+                                                "
+                                            />
+                                        </div>
+                                        <div>
+                                            <img
+                                                data-groups-id="my-img-9d1154d7-a079-4ec5-b659-c5f6f62efb23"
+                                                data-src-render="https://cdntoos.appskypg.com/agent/img/1793952079665582082.png"
+                                                src="https://cdntoos.appskypg.com/agent/img/1793952079665582082.png"
+                                                alt="Instagram"
+                                                data-blur="0"
+                                                data-status="loaded"
+                                                class="goDRiiBsuEuXD3W1NphN"
+                                                style="
+                                                    width: 2.5rem;
+                                                    height: 2.5rem;
+                                                "
+                                            />
+                                        </div>
+                                        <div>
+                                            <img
+                                                data-groups-id="my-img-a54923ba-8d30-4b67-830b-338c3838b7d1"
+                                                data-src-render="https://pubusppp.c1oudfront.com/siteadmin/agent/img/img_wa.png"
+                                                src="https://pubusppp.c1oudfront.com/siteadmin/agent/img/img_wa.png"
+                                                alt="WhatsApp"
+                                                data-blur="0"
+                                                data-status="loaded"
+                                                class="goDRiiBsuEuXD3W1NphN"
+                                                style="
+                                                    width: 2.5rem;
+                                                    height: 2.5rem;
+                                                "
+                                            />
+                                        </div>
+                                        <div>
+                                            <img
+                                                data-groups-id="my-img-a8fc7b23-1136-4549-9820-9e54c4a82229"
+                                                data-src-render="https://pubusppp.c1oudfront.com/siteadmin/agent/img/img_facebook.png"
+                                                src="https://pubusppp.c1oudfront.com/siteadmin/agent/img/img_facebook.png"
+                                                alt="Facebook"
+                                                data-blur="0"
+                                                data-status="loaded"
+                                                class="goDRiiBsuEuXD3W1NphN"
+                                                style="
+                                                    width: 2.5rem;
+                                                    height: 2.5rem;
+                                                "
+                                            />
+                                        </div>
+                                        <div>
+                                            <img
+                                                data-groups-id="my-img-4eea860f-bf2c-4cce-8e9b-20e2f4474126"
+                                                data-src-render="https://cdntoos.appskypg.com/agent/img/1793951943189524482.png"
+                                                src="https://cdntoos.appskypg.com/agent/img/1793951943189524482.png"
+                                                alt="youtube"
+                                                data-blur="0"
+                                                data-status="loaded"
+                                                class="goDRiiBsuEuXD3W1NphN"
+                                                style="
+                                                    width: 2.5rem;
+                                                    height: 2.5rem;
+                                                "
+                                            />
+                                        </div>
+                                        <div>
+                                            <img
+                                                data-groups-id="my-img-8603ec5d-e94b-4981-bfc5-d7b8acc823ec"
+                                                data-src-render="https://cdntoos.appskypg.com/agent/img/1793951839497940993.png"
+                                                src="https://cdntoos.appskypg.com/agent/img/1793951839497940993.png"
+                                                alt="Tiktok"
+                                                data-blur="0"
+                                                data-status="loaded"
+                                                class="goDRiiBsuEuXD3W1NphN"
+                                                style="
+                                                    width: 2.5rem;
+                                                    height: 2.5rem;
+                                                "
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>

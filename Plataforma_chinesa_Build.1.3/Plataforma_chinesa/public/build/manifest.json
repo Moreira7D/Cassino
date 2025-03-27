@@ -1,0 +1,85 @@
+{
+  "assets/images/cassino-small.png": {
+    "file": "assets/cassino-small-3b2680a4.png",
+    "src": "assets/images/cassino-small.png"
+  },
+  "assets/images/cassino.png": {
+    "file": "assets/cassino-527189c0.png",
+    "src": "assets/images/cassino.png"
+  },
+  "assets/images/sport-small.png": {
+    "file": "assets/sport-small-5e566ee2.png",
+    "src": "assets/images/sport-small.png"
+  },
+  "assets/images/sport.png": {
+    "file": "assets/sport-a0e04fbf.png",
+    "src": "assets/images/sport.png"
+  },
+  "lang/en.json": {
+    "file": "assets/en-689817bf.js",
+    "isDynamicEntry": true,
+    "src": "lang/en.json"
+  },
+  "lang/es.json": {
+    "file": "assets/es-716700b2.js",
+    "isDynamicEntry": true,
+    "src": "lang/es.json"
+  },
+  "lang/php_en.json": {
+    "file": "assets/php_en-e372bb40.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_en.json"
+  },
+  "lang/php_es.json": {
+    "file": "assets/php_es-047a2e64.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_es.json"
+  },
+  "lang/php_pt_BR.json": {
+    "file": "assets/php_pt_BR-7b39052f.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_pt_BR.json"
+  },
+  "lang/php_vendor.json": {
+    "file": "assets/php_vendor-08f688ab.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_vendor.json"
+  },
+  "lang/pt_BR.json": {
+    "file": "assets/pt_BR-54b39037.js",
+    "isDynamicEntry": true,
+    "src": "lang/pt_BR.json"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-761edada.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/cassino-527189c0.png",
+      "assets/cassino-small-3b2680a4.png",
+      "assets/sport-a0e04fbf.png",
+      "assets/sport-small-5e566ee2.png"
+    ],
+    "css": [
+      "assets/app-761edada.css"
+    ],
+    "dynamicImports": [
+      "lang/en.json",
+      "lang/es.json",
+      "lang/php_en.json",
+      "lang/php_es.json",
+      "lang/php_pt_BR.json",
+      "lang/php_vendor.json",
+      "lang/pt_BR.json"
+    ],
+    "file": "assets/app-da0a2933.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}

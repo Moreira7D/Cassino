@@ -1,0 +1,46 @@
+[2024-03-08 06:44:13] local.INFO: _____________________________________________________________________________________________  
+[2024-03-08 06:44:13] local.INFO: Bet: 2.5  
+[2024-03-08 06:44:13] local.INFO: Win: 0  
+[2024-03-08 06:44:13] local.INFO: txnType: 0  
+[2024-03-08 06:44:13] local.INFO: data: {"method":"ChangeBalance","userCode":"1","vendorCode":"Evolution_Casino","token":"UVBTaU9mNnpqWitMRjIxSWpGUnRRenRYVUlwaXB5eVBITlRnY2JFN1Zjaz06eHh4Y2FzaW5vMTA=","amount":-2.5,"createdOn":"2024-03-08T09:44:13.0459112Z","gameCode":"TopCard000000001","gameRoundId":"17bac0d7a066a58ad76c513d","debitCreditPair":true,"isReal":true,"isFinished":false,"txnType":0,"txnCode":"100274","wagerId":87128,"detail":null,"pairCode":null,"betAmount":2.5,"payoutAmount":0}  
+[2024-03-08 06:44:13] local.INFO: PayWin win 0  
+[2024-03-08 06:44:13] local.INFO: Paybet bet 2.5  
+[2024-03-08 06:44:20] local.INFO: _____________________________________________________________________________________________  
+[2024-03-08 06:44:20] local.INFO: Bet: 0  
+[2024-03-08 06:44:20] local.INFO: Win: 5  
+[2024-03-08 06:44:20] local.INFO: txnType: 1  
+[2024-03-08 06:44:20] local.INFO: data: {"method":"ChangeBalance","userCode":"1","vendorCode":"Evolution_Casino","token":"UVBTaU9mNnpqWitMRjIxSWpGUnRRenRYVUlwaXB5eVBITlRnY2JFN1Zjaz06eHh4Y2FzaW5vMTA=","amount":5,"createdOn":"2024-03-08T09:44:19.8756719Z","gameCode":"TopCard000000001","gameRoundId":"17bac0d7a066a58ad76c513d","debitCreditPair":true,"isReal":true,"isFinished":true,"txnType":1,"txnCode":"100275","wagerId":87128,"detail":"{\"id\":\"2844_17bac0d7a066a58ad76c513d\",\"parentId\":\"\",\"startedAt\":\"2024-03-08T09:44:19.8646512Z\",\"settledAt\":\"2024-03-08T09:44:19.8646512Z\",\"status\":\"Resolved\",\"gameType\":\"topcard\",\"gameSubType\":\"\",\"table\":{\"id\":\"TopCard000000001\",\"name\":\"Football Studio\"},\"dealer\":{\"uid\":\"tts137537_______\",\"name\":\"Daria\"},\"result\":{\"aSpot\":{\"card\":\"JC\",\"score\":11},\"bSpot\":{\"card\":\"AS\",\"score\":14},\"outcome\":\"Dragon\"},\"participants\":[{\"screenName\":\"test\",\"enrichmentFlag\":2,\"casinoId\":\"gammixkplay00001\",\"bets\":[{\"payout\":5.0,\"stake\":2.5,\"description\":null,\"balanceId\":\"combined\",\"placedOn\":\"2024-03-08T09:44:19.8646512Z\",\"code\":\"DT_Dragon\",\"currencyRateVersion\":\"rkdlb6taubrqaaae\",\"transactionId\":\"17bac0d7a066a58ad76c513d\"}],\"sideBetBankerPair\":\"Lose\",\"sessionId\":\"rkb5o4onuuvq2gfdrkexsfl6t6qzllje6be0590b\",\"playMode\":\"RealMoney\",\"playerId\":2844,\"currency\":\"BRL\",\"currencySymbol\":\"R$\",\"configOverlays\":[]}]}","pairCode":null,"betAmount":2.5,"payoutAmount":5}  
+[2024-03-08 06:44:20] local.INFO: PayWin win 5  
+[2024-03-08 06:44:20] local.INFO: Paybet bet 0  
+[2024-03-08 06:44:20] local.INFO: $transaction   
+
+
+[2024-03-08 06:44:37] local.INFO: _____________________________________________________________________________________________  
+[2024-03-08 06:44:37] local.INFO: Bet: 2.5  
+[2024-03-08 06:44:37] local.INFO: Win: 0  
+[2024-03-08 06:44:37] local.INFO: txnType: 0  
+[2024-03-08 06:44:37] local.INFO: data: {"method":"ChangeBalance","userCode":"1","vendorCode":"Evolution_Casino","token":"UVBTaU9mNnpqWitMRjIxSWpGUnRRenRYVUlwaXB5eVBITlRnY2JFN1Zjaz06eHh4Y2FzaW5vMTA=","amount":-2.5,"createdOn":"2024-03-08T09:44:36.9075008Z","gameCode":"TopCard000000001","gameRoundId":"17bac0dd2efc2a4e23208166","debitCreditPair":true,"isReal":true,"isFinished":false,"txnType":0,"txnCode":"100276","wagerId":87129,"detail":null,"pairCode":null,"betAmount":2.5,"payoutAmount":0}  
+[2024-03-08 06:44:37] local.INFO: PayWin win 0  
+[2024-03-08 06:44:37] local.INFO: Paybet bet 2.5  
+[2024-03-08 06:44:45] local.INFO: _____________________________________________________________________________________________  
+[2024-03-08 06:44:45] local.INFO: Bet: 0  
+[2024-03-08 06:44:45] local.INFO: Win: 1.25  
+[2024-03-08 06:44:45] local.INFO: txnType: 1  
+[2024-03-08 06:44:45] local.INFO: data: {"method":"ChangeBalance","userCode":"1","vendorCode":"Evolution_Casino","token":"UVBTaU9mNnpqWitMRjIxSWpGUnRRenRYVUlwaXB5eVBITlRnY2JFN1Zjaz06eHh4Y2FzaW5vMTA=","amount":1.25,"createdOn":"2024-03-08T09:44:44.3388467Z","gameCode":"TopCard000000001","gameRoundId":"17bac0dd2efc2a4e23208166","debitCreditPair":true,"isReal":true,"isFinished":true,"txnType":1,"txnCode":"100277","wagerId":87129,"detail":"{\"id\":\"2844_17bac0dd2efc2a4e23208166\",\"parentId\":\"\",\"startedAt\":\"2024-03-08T09:44:44.3268293Z\",\"settledAt\":\"2024-03-08T09:44:44.3268293Z\",\"status\":\"Resolved\",\"gameType\":\"topcard\",\"gameSubType\":\"\",\"table\":{\"id\":\"TopCard000000001\",\"name\":\"Football Studio\"},\"dealer\":{\"uid\":\"tts137537_______\",\"name\":\"Daria\"},\"result\":{\"aSpot\":{\"card\":\"7C\",\"score\":7},\"bSpot\":{\"card\":\"7S\",\"score\":7},\"outcome\":\"Tie\"},\"participants\":[{\"screenName\":\"test\",\"enrichmentFlag\":2,\"casinoId\":\"gammixkplay00001\",\"bets\":[{\"payout\":1.25,\"stake\":2.5,\"description\":null,\"balanceId\":\"combined\",\"placedOn\":\"2024-03-08T09:44:44.3268293Z\",\"code\":\"DT_Dragon\",\"currencyRateVersion\":\"rkdlb6taubrqaaae\",\"transactionId\":\"17bac0dd2efc2a4e23208166\"}],\"sideBetBankerPair\":\"Lose\",\"sessionId\":\"rkb5o4onuuvq2gfdrkexsfl6t6qzllje6be0590b\",\"playMode\":\"RealMoney\",\"playerId\":2844,\"currency\":\"BRL\",\"currencySymbol\":\"R$\",\"configOverlays\":[]}]}","pairCode":null,"betAmount":2.5,"payoutAmount":1.25}  
+[2024-03-08 06:44:45] local.INFO: PayWin win 1.25  
+[2024-03-08 06:44:45] local.INFO: Paybet bet 0  
+[2024-03-08 06:44:45] local.INFO: $transaction   
+
+
+[2024-03-08 06:45:02] local.INFO: _____________________________________________________________________________________________  
+[2024-03-08 06:45:02] local.INFO: Bet: 2.5  
+[2024-03-08 06:45:02] local.INFO: Win: 0  
+[2024-03-08 06:45:02] local.INFO: txnType: 0  
+[2024-03-08 06:45:02] local.INFO: data: {"method":"ChangeBalance","userCode":"1","vendorCode":"Evolution_Casino","token":"UVBTaU9mNnpqWitMRjIxSWpGUnRRenRYVUlwaXB5eVBITlRnY2JFN1Zjaz06eHh4Y2FzaW5vMTA=","amount":-2.5,"createdOn":"2024-03-08T09:45:01.3746797Z","gameCode":"TopCard000000001","gameRoundId":"17bac0e2e117ec1264709667","debitCreditPair":true,"isReal":true,"isFinished":false,"txnType":0,"txnCode":"100278","wagerId":87130,"detail":null,"pairCode":null,"betAmount":2.5,"payoutAmount":0}  
+[2024-03-08 06:45:02] local.INFO: PayWin win 0  
+[2024-03-08 06:45:02] local.INFO: Paybet bet 2.5  
+[2024-03-08 06:45:08] local.INFO: _____________________________________________________________________________________________  
+[2024-03-08 06:45:08] local.INFO: Bet: 0  
+[2024-03-08 06:45:08] local.INFO: Win: 0  
+[2024-03-08 06:45:08] local.INFO: txnType: 1  
+[2024-03-08 06:45:08] local.INFO: data: {"method":"ChangeBalance","userCode":"1","vendorCode":"Evolution_Casino","token":"UVBTaU9mNnpqWitMRjIxSWpGUnRRenRYVUlwaXB5eVBITlRnY2JFN1Zjaz06eHh4Y2FzaW5vMTA=","amount":0,"createdOn":"2024-03-08T09:45:07.3565963Z","gameCode":"TopCard000000001","gameRoundId":"17bac0e2e117ec1264709667","debitCreditPair":true,"isReal":true,"isFinished":true,"txnType":1,"txnCode":"100279","wagerId":87130,"detail":"{\"id\":\"2844_17bac0e2e117ec1264709667\",\"parentId\":\"\",\"startedAt\":\"2024-03-08T09:45:07.3395826Z\",\"settledAt\":\"2024-03-08T09:45:07.3395826Z\",\"status\":\"Resolved\",\"gameType\":\"topcard\",\"gameSubType\":\"\",\"table\":{\"id\":\"TopCard000000001\",\"name\":\"Football Studio\"},\"dealer\":{\"uid\":\"tts137537_______\",\"name\":\"Daria\"},\"result\":{\"aSpot\":{\"card\":\"5D\",\"score\":5},\"bSpot\":{\"card\":\"4S\",\"score\":4},\"outcome\":\"Tiger\"},\"participants\":[{\"screenName\":\"test\",\"enrichmentFlag\":2,\"casinoId\":\"gammixkplay00001\",\"bets\":[{\"payout\":0.0,\"stake\":2.5,\"description\":null,\"balanceId\":\"combined\",\"placedOn\":\"2024-03-08T09:45:07.3395826Z\",\"code\":\"DT_Dragon\",\"currencyRateVersion\":\"rkdlb6taubrqaaae\",\"transactionId\":\"17bac0e2e117ec1264709667\"}],\"sideBetBankerPair\":\"Lose\",\"sessionId\":\"rkb5o4onuuvq2gfdrkexsfl6t6qzllje6be0590b\",\"playMode\":\"RealMoney\",\"playerId\":2844,\"currency\":\"BRL\",\"currencySymbol\":\"R$\",\"configOverlays\":[]}]}","pairCode":null,"betAmount":2.5,"payoutAmount":0}  

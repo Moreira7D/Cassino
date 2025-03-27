@@ -1,0 +1,1863 @@
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ClientException 
+
+  Client error: `POST https://spacepix.bet/api/digitopay/consult-status-transaction` resulted in a `400 Bad Request` response:
+{"status":"ERROR"}
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://demo1.betspacebr.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://pgouropix.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://pgouropix.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://pgouropix.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://pgouropix.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
+
+   GuzzleHttp\Exception\ServerException 
+
+  Server error: `POST https://pgouropix.com/api/suitpay/consult-status-transaction` resulted in a `500 Internal Server Error` response:
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+ErrorException: Attempt to read property &quot;status&quot; on null i (truncated...)
+
+  at /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+    109▕         if ($summary !== null) {
+    110▕             $message .= ":\n{$summary}\n";
+    111▕         }
+    112▕ 
+  ➜ 113▕         return new $className($message, $request, $response, $previous, $handlerContext);
+    114▕     }
+    115▕ 
+    116▕     /**
+    117▕      * Obfuscates URI if there is a username and a password present
+
+      [2m+11 vendor frames [22m
+
+  12  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:38
+      GuzzleHttp\Client::post()
+
+  13  /home/betspacebr-demo1/htdocs/demo1.betspacebr.com/app/Console/Commands/CheckTransactions.php:30
+      App\Console\Commands\CheckTransactions::checkTransactionStatus()
+
